@@ -45,4 +45,3 @@ add_filter(
 	10,
 	2
 );
-Copied
